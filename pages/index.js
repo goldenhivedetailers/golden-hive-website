@@ -19,6 +19,12 @@ export default function Home() {
           Luxury, premium mobile detailing - bringing shine & protection right
           to your driveway in and across Utah.
         </p>
+
+        {/* Disclaimer */}
+        <p className="text-sm text-gray-500 italic mb-6">
+          This site is still under construction — thank you for your patience.
+        </p>
+
         <p className="text-xl font-semibold mb-8">(619) 370-0433</p>
         <button
           onClick={() => setIsOpen(true)}
