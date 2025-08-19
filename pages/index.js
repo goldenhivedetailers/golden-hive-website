@@ -16,8 +16,8 @@ export default function Home() {
           Golden Hive Mobile Detailers
         </h1>
         <p className="text-lg max-w-2xl mx-auto mb-6 text-gray-300">
-          Luxury, premium mobile detailing — bringing shine & protection right
-          to your driveway in Park City, Draper, and across Utah.
+          Luxury, premium mobile detailing - bringing shine & protection right
+          to your driveway in and across Utah.
         </p>
         <p className="text-xl font-semibold mb-8">(619) 370-0433</p>
         <button
