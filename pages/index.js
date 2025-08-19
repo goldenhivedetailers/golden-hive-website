@@ -136,7 +136,7 @@ export default function Home() {
 
       {/* GALLERY SECTION */}
       <section className="py-16 bg-neutral-900 text-center">
-        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Examples</h2>
+        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Placeholder Photos</h2>
         <div className="w-24 h-1 bg-yellow-500 mx-auto mb-8"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-6">
