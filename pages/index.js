@@ -123,7 +123,7 @@ export default function Home() {
             <p className="text-gray-300 italic">
               "They came right to my house in Park City. Couldn’t be easier."
             </p>
-            <p className="mt-4 font-bold text-yellow-500">— Eric W.</p>
+            <p className="mt-4 font-bold text-yellow-500">— Austin P.</p>
           </div>
           <div className="bg-neutral-900 p-6 rounded-lg shadow">
             <p className="text-gray-300 italic">
