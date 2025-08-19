@@ -117,19 +117,19 @@ export default function Home() {
             <p className="text-gray-300 italic">
               "Best detailing I’ve ever had. My car looks brand new!"
             </p>
-            <p className="mt-4 font-bold text-yellow-500">— Sarah M.</p>
+            <p className="mt-4 font-bold text-yellow-500">— Erin C.</p>
           </div>
           <div className="bg-neutral-900 p-6 rounded-lg shadow">
             <p className="text-gray-300 italic">
               "They came right to my house in Park City. Couldn’t be easier."
             </p>
-            <p className="mt-4 font-bold text-yellow-500">— David L.</p>
+            <p className="mt-4 font-bold text-yellow-500">— Eric W.</p>
           </div>
           <div className="bg-neutral-900 p-6 rounded-lg shadow">
             <p className="text-gray-300 italic">
               "Luxury service, professional results. Worth every penny."
             </p>
-            <p className="mt-4 font-bold text-yellow-500">— Jessica K.</p>
+            <p className="mt-4 font-bold text-yellow-500">— Pierson L.</p>
           </div>
         </div>
       </section>
