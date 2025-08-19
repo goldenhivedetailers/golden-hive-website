@@ -22,7 +22,7 @@ export default function Home() {
 
         {/* Disclaimer */}
         <p className="text-sm text-gray-500 italic mb-6">
-          This site is still under construction — thank you for your patience.
+          This site is still under construction — thank you for your patience. The quote button still works.
         </p>
 
         <p className="text-xl font-semibold mb-8">(619) 370-0433</p>
