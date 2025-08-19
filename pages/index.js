@@ -10,7 +10,7 @@ export default function Home() {
         <img
           src="/GoldenHiveLogo.png"
           alt="Golden Hive Logo"
-          className="w-40 mb-6"
+          className="w-80 mb-12"
         />
         <h1 className="text-5xl font-bold text-yellow-500 mb-4">
           Golden Hive Mobile Detailers
