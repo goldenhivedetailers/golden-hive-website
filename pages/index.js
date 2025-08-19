@@ -96,7 +96,7 @@ export default function Home() {
 
       {/* ABOUT SECTION */}
       <section className="py-16 bg-neutral-900 text-center px-6">
-        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Why Choose Us</h2>
+        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Why Choose Us?</h2>
         <div className="w-24 h-1 bg-yellow-500 mx-auto mb-8"></div>
         <p className="max-w-3xl mx-auto text-lg text-gray-300">
           At Golden Hive, every detail is treated like a work of art. Our expert
