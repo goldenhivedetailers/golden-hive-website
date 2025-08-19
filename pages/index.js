@@ -24,7 +24,7 @@ export default function Home() {
           onClick={() => setIsOpen(true)}
           className="bg-yellow-500 text-black px-8 py-3 rounded-full text-lg font-bold hover:bg-yellow-400 transition"
         >
-          Book Now
+          Get a Quote Today
         </button>
       </section>
 
@@ -136,7 +136,7 @@ export default function Home() {
 
       {/* GALLERY SECTION */}
       <section className="py-16 bg-neutral-900 text-center">
-        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Our Work</h2>
+        <h2 className="text-4xl font-bold text-yellow-500 mb-4">Examples</h2>
         <div className="w-24 h-1 bg-yellow-500 mx-auto mb-8"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 px-6">
